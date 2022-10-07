@@ -1,0 +1,573 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.nav{
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    box-shadow: 0px 5px 14px rgba(8, 15, 52, 0.04);
+}
+.logo{
+    margin-left: 30px;
+    margin-top: -50px;
+}
+.navbar{
+    font-family: Roobert, sans-serif;
+    display: flex;
+    cursor: pointer;
+    margin-left: 500px;
+    margin-top: -25px;
+    gap: 60px;
+}
+.navbar2{
+    font-family: Roobert, sans-serif;
+    display: flex;
+    gap: 20px;
+    margin-left: 1000px;
+    margin-top: -30px;
+}
+.login{
+    width: 130px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+}
+.signup{
+    width: 130px;
+    height: 50px;
+    border-radius: px;
+    background-color: #03849D;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.section1{
+    background-image: url("./Capa\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+    margin-top: 20px;
+}
+.senddiv{
+    margin-left: 90px;
+    margin-top: -800px;
+    font-family: Roobert, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 118.5%;
+
+}
+.oursupply{
+    font-family: Roobert, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 149.3%;
+}
+.signup2{
+    width: 130px;
+    height: 50px;
+    background-color: #03849D;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.beardedman{
+    margin-left: 600px;
+    margin-top: -550px;
+    width: 654px;
+    height: 728px;
+}
+.rectangle1{
+    height: 195px;
+    width: 100%;
+    left: -7px;
+    margin-top: -40px;
+}
+.section2{
+    background-image: url("./Capa\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+    margin-top: -20px;
+}
+.younggirl{
+    margin-left: 70px;
+    margin-top: -800px;
+    width: 656px;
+    height: 789px;
+}
+.trusteddiv{
+    margin-left: 700px;
+    margin-top: -700px;
+    font-family: Roobert, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 118.5%;
+}
+.weare{
+    font-family: Roobert, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 149.3%;
+    margin-top: 20px;
+}
+.learnmore{
+    width: 130px;
+    height: 50px;
+    background-color: #03849D;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.section3{
+    background-image: url("./Capa\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+    margin-top: 250px;
+}
+.rectangle2{
+    width: 100%;
+    height: 440px;
+    margin-top: -1005px;
+}
+.rectangle2b{
+    width: 100%;
+    height: 440px;
+}
+.numbers{
+    margin-left: 160px;
+    margin-top: -300px;
+    font-family: Roobert, sans-serif;
+}
+.three{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 96px;
+    line-height: 118.5%;
+    color: #FFFFFF;
+}
+.delivery{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 116%;
+    color: #FFFFFF;
+    margin-left: 50px;
+}
+.numbers2{
+    margin-left: 660px;
+    margin-top: -150px;
+    font-family: Roobert, sans-serif;
+}
+.fifty{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 96px;
+    line-height: 118.5%;
+    color: #FFFFFF;
+}
+.vendors{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 116%;
+    color: #FFFFFF;
+    margin-left: 20px;
+}
+.numbers3{
+    margin-left: 1050px;
+    margin-top: -150px;
+    font-family: Roobert, sans-serif;
+}
+.five{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 96px;
+    line-height: 118.5%;
+    color: #FFFFFF;
+}
+.users{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 116%;
+    color: #FFFFFF;
+    margin-left: 20px;
+}
+.ourservices{
+    font-family: Roobert, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 118.5%;
+    text-align: center;
+    color: #03849D;
+    margin-top: 220px;
+}
+.box1{
+    width: 240px;
+    height: 230px;
+    background-color: #FFFFFF;
+    padding: 67px 55px;
+    border: 1px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.13), 0px 4px 45px -7px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.bike{
+    width: 180px;
+    margin-left: 20px;
+
+}
+.parcel{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 118.5%;
+    text-align: center;
+    color: #03849D;
+    font-family: Roobert, sans-serif;
+    margin-top: 30px;
+}
+.inter{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 144%;
+    text-align: center;
+    color: #000000;
+    font-family: Roobert, sans-serif;
+    margin-top: 30px;
+}
+.box2{
+    width: 240px;
+    height: 230px;
+    background-color: #FFFFFF;
+    padding: 67px 55px;
+    border: 1px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.13), 0px 4px 45px -7px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+    align-items: center;
+    margin-top: -365px;
+    margin-left: 500px;
+}
+.world{
+    width: 180px;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+.imports{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 118.5%;
+    text-align: center;
+    color: #03849D;
+    font-family: Roobert, sans-serif;
+}
+.international{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 144%;
+    text-align: center;
+    color: #000000;
+    font-family: Roobert, sans-serif;
+    margin-top: 30px;
+}
+.box3{
+    width: 240px;
+    height: 230px;
+    background-color: #FFFFFF;
+    padding: 67px 55px;
+    border: 1px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.13), 0px 4px 45px -7px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+    align-items: center;
+    margin-top: -365px;
+    margin-left: 900px;
+}
+.location{
+    width: 120px;
+    margin-left: 60px;
+    margin-top: -10px;
+
+}
+.package{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 118.5%;
+    text-align: center;
+    color: #03849D;
+    font-family: Roobert, sans-serif;
+    width: 280px;
+    margin-left: -20px;
+    margin-top: 20px;
+}
+.track{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 144%;
+    text-align: center;
+    color: #000000;
+    font-family: Roobert, sans-serif;
+    margin-top: 30px;
+    margin-left: -30px;
+    width: 300px;
+}
+.section4{
+    background-image: url("./Capa\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+    margin-top: 10px;
+}
+.joindiv{
+    margin-left: 100px;
+    margin-top: -750px;
+}
+.join{
+    font-family: Roobert, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 118.5%;
+    color: #03849D;
+    margin-top: -100px;
+}
+.crew{
+    font-family: Roobert, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 118.5%;
+    color: #000000;
+    margin-top: px;
+}
+.atswift{
+    font-family: Roobert, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 149.3%;
+    margin-top: 40px;
+}
+.joinnow{
+    width: 130px;
+    height: 50px;
+    background-color: #03849D;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.people{
+    margin-left: 490px;
+    margin-top: -680px;
+}
+.rectangle3{
+    height: 195px;
+    width: 100%;
+    margin-top: -160px;
+}
+.section5{
+    background-image: url("./Capa\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+    margin-top: -75px;
+}
+.heardiv{
+    margin-left: 100px;
+    margin-top: -880px;
+}
+.hear{
+    font-family: Roobert, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 118.5%;
+    color: #03849D;
+    margin-top: -100px;
+}
+.userssay{
+    font-family: Roobert, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 118.5%;
+    color: #000000;
+    margin-top: px;
+}
+.userssay2{
+    font-family: Roobert, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 118.5%;
+    color: #03849D;
+    margin-left: 170px;
+    margin-top: -75px;
+}
+.marquee{
+    display: flex;
+    margin-top: 20px;
+}
+.creatediv{
+    margin-left: 180px;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+/* FOOTER */
+.footer{
+    width: 100%;
+    height: 365px;
+    background-color: white;
+    margin-top: px;
+}
+.logosocial{
+    margin-top: -280px;
+    margin-left: 80px;
+}
+.yoursure{
+    font-family: Roobert, sans-serif;
+    font-size: 18px;
+    color: #272832;
+    line-height: 1.875em;
+    margin-top: 20px;
+}
+
+.product{
+    font-family: Roobert, sans-serif;
+    cursor: pointer;
+    margin-left: 560px;
+    margin-top: -150px;
+    color: #777676;
+    font-style: normal;
+    line-height: 22px;
+    width: 50px;
+}
+.prod{
+    font-size: 20px;
+    color: #24273a;
+    line-height: 4em;
+}
+
+.company{
+    font-family: Roobert, sans-serif;
+    cursor: pointer;
+    margin-left: 800px;
+    margin-top: -212px;
+    color: #777676;
+    font-style: normal;
+    line-height: 22px;
+    width: 80px;
+}
+.comp{
+    font-size: 20px;
+    color: #24273a;
+    line-height: 4em;
+}
+.contactus{
+    font-family: Roobert, sans-serif;
+    cursor: pointer;
+    margin-left: 1050px;
+    margin-top: -248px;
+    color: #777676;
+    font-style: normal;
+    line-height: 22px;
+    width: 160px;
+}
+.cont{
+    font-size: 20px;
+    color: #24273a;
+    line-height: 4em;
+}
+.copywritediv{
+    margin-top: 150px;
+    margin-left: -1020px;
+}
+.copywrite{
+    font-family: Roobert, sans-serif;
+    font-size: 18px;
+    color: #777676;
+    line-height: 1.875em;
+    text-align: center;
+}
+.alldiv{
+    font-family: Roobert, sans-serif;
+    margin-left: 820px;
+    margin-top: -28px;
+    margin-bottom: 30px;
+
+}
+.terms{
+    margin-left: 140px;
+    margin-top: -18px;
+    color: #03849D;
+    cursor: pointer;
+}
+.slash{
+    margin-left: 300px;
+    margin-top: -18px;
+}
+.privacy{
+    margin-left: 310px;
+    margin-top: -18px;
+    color: #03849D;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
